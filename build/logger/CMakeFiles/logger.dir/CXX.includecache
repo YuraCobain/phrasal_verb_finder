@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../logger/inc/logger.h
+string
+-
+memory
+-
+
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/src/logger.cpp
+logger.h
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/src/logger.h
+unordered_map
+-
+iostream
+-
+

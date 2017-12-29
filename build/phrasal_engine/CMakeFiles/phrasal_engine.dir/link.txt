@@ -1,0 +1,2 @@
+/usr/bin/ar qc libphrasal_engine.a  CMakeFiles/phrasal_engine.dir/src/hash_dictionary.cpp.o CMakeFiles/phrasal_engine.dir/src/phrase_pattern.cpp.o CMakeFiles/phrasal_engine.dir/src/phrasal_engine.cpp.o
+/usr/bin/ranlib libphrasal_engine.a

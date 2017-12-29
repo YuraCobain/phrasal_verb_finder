@@ -1,0 +1,11 @@
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/CMakeFiles/rebuild_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/CMakeFiles/edit_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/CMakeFiles/phrasal_verb_finder.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/cxxopts/CMakeFiles/edit_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/cxxopts/CMakeFiles/rebuild_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/logger/CMakeFiles/edit_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/logger/CMakeFiles/rebuild_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/logger/CMakeFiles/logger.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/phrasal_engine/CMakeFiles/rebuild_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/phrasal_engine/CMakeFiles/edit_cache.dir
+/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/phrasal_engine/CMakeFiles/phrasal_engine.dir

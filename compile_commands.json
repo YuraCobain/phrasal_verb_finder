@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build",
+  "command": "/usr/bin/c++    -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/cxxopts/include -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/inc -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/phrasal_engine/inc    -std=c++14 -o CMakeFiles/fresal_verb_finder.dir/main.cpp.o -c /home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/main.cpp",
+  "file": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/main.cpp"
+},
+{
+  "directory": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/logger",
+  "command": "/usr/bin/c++    -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/inc    -std=c++14 -o CMakeFiles/logger.dir/src/logger.cpp.o -c /home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/src/logger.cpp",
+  "file": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/src/logger.cpp"
+},
+{
+  "directory": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/build/phrasal_engine",
+  "command": "/usr/bin/c++    -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/phrasal_engine/inc -I/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/logger/inc    -std=c++14 -o CMakeFiles/phrasal_engine.dir/src/hash_dictionary.cpp.o -c /home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/phrasal_engine/src/hash_dictionary.cpp",
+  "file": "/home/ikobein/dev/cpp-stuff/pharsal_verb/phrasal_verb_finder/phrasal_engine/src/hash_dictionary.cpp"
+}
+]

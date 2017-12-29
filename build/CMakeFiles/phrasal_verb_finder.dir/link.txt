@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wno-long-long -pedantic   CMakeFiles/phrasal_verb_finder.dir/main.cpp.o  -o phrasal_verb_finder -rdynamic logger/liblogger.a phrasal_engine/libphrasal_engine.a logger/liblogger.a 
